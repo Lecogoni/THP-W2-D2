@@ -4,5 +4,5 @@ j = 0
 while input != 2020
     j+=1
     input+=1
-    puts "il y a #{2020 - input} tu avais #{j}ans"
+    puts "il y a #{2020 - input}ans tu avais #{j} ans"
 end

@@ -1,10 +1,8 @@
 # THP-W2-D2
-ruby basic learning
-Test 1
+Salut à toi jeune correcteur
 
+Attend un instant ne te précipites pas sur la corrections du premier exercice. 
+Lance plûtot le fichier menu.rb en tapant la ligne de command "ruby menu.rb" dans ton terminal. 
 
+Te restes juste ensuite à suivre les indications ;)
 
-TEST 2 : ED
-
-
-test 3: edouard
