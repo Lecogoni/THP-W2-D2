@@ -1,3 +1,10 @@
 # THP-W2-D2
 ruby basic learning
-pair programming 
+Test 1
+
+
+
+TEST 2 : ED
+
+
+test 3: edouard
