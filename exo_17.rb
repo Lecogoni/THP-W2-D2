@@ -12,4 +12,3 @@ end
 floor.times do |i|
     puts (" " * (floor-i)) + ("#" * (i + i + 1))
 end
-
